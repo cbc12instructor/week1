@@ -46,7 +46,7 @@ Check out [Google](https://google.com).
 
 `![text for screen readers](image URL)`
 
-![cats](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cat_poster_1.jpg/1280px-Cat_poster_1.jpg)
+![cats](https://raw.githubusercontent.com/cbc12instructor/week1/main/cats.jpg)
 
 ![this is supposed to be a picture of cats](asdfasdf)
 
