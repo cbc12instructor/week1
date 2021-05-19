@@ -59,3 +59,16 @@ Check out [Google](https://google.com).
 | Eric | erh@theclubhou.se | 219-777-1699 |
 | Andrew | fake@fake.com | 111-222-3333 |
 | Wendy | alsofake@fake.com | 222-333-444 |
+
+---
+
+## Code Examples
+
+`A code example uses the backtick`
+
+
+```
+{
+    'code here' : 'this is code'
+}
+```
