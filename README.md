@@ -12,8 +12,8 @@ This is a **paragraph**. A paragraph can be **long** or *short*. It is entirely 
 
 In between paragraphs is a good spot for headings.
 
-> Worker bees can leave,
-> Even drones can fly away,
+> Worker bees can leave,  
+> Even drones can fly away,  
 > The queen is their slave
 
 Quotes are cool.
