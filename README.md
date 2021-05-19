@@ -72,3 +72,16 @@ Check out [Google](https://google.com).
     'code here' : 'this is code'
 }
 ```
+
+---
+
+# Footnotes
+
+This is a long paragraph and I want to cite my sources at the end. [^1] I love writing research papers. This is fun. [^2]
+
+Horses are interesting and enjoy eating carrots. [^3]
+
+[^1]: This is my source.
+[^2]: This is my second source.
+[^3]: Horses really like veggies.
+
