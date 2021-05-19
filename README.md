@@ -1,3 +1,3 @@
 # week1
 
-Eric Harrison
+Eric Ryan Harrison
