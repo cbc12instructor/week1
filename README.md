@@ -57,3 +57,5 @@ Check out [Google](https://google.com).
 | Name | Email Address | Phone Number |
 | ---- | ------------- | ------------ |
 | Eric | erh@theclubhou.se | 219-777-1699 |
+| Andrew | fake@fake.com | 111-222-3333 |
+| Wendy | alsofake@fake.com | 222-333-444 |
