@@ -91,4 +91,4 @@ Horses are interesting and enjoy eating carrots. [^3]
 
 - [x] Learn git
 - [x] Learn github
-- [ ] Learn Markdown
+- [x] Learn Markdown
