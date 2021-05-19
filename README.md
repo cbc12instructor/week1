@@ -1,4 +1,4 @@
-# Level 1 Heading
+# Level 1 Heading 
 
 ## Level 2 Heading
 
@@ -92,3 +92,9 @@ Horses are interesting and enjoy eating carrots. [^3]
 - [x] Learn git
 - [x] Learn github
 - [x] Learn Markdown
+
+---
+
+### Cool Class Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M72drOjAL9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
