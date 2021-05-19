@@ -85,3 +85,10 @@ Horses are interesting and enjoy eating carrots. [^3]
 [^2]: This is my second source.
 [^3]: Horses really like veggies.
 
+~~Footnotes are currently broken.~~
+
+### List of things to do
+
+- [x] Learn git
+- [x] Learn github
+- [] Learn Markdown
