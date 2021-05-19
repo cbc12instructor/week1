@@ -49,3 +49,11 @@ Check out [Google](https://google.com).
 ![cats](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cat_poster_1.jpg/1280px-Cat_poster_1.jpg)
 
 ![this is supposed to be a picture of cats](asdfasdf)
+
+---
+
+## Fun With Tables
+
+| Name | Email Address | Phone Number |
+| ---- | ------------- | ------------ |
+| Eric | erh@theclubhou.se | 219-777-1699 |
