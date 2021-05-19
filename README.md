@@ -29,3 +29,8 @@ Unordered list
 - have fun
 - learn Markdown
 - sleep
+
+### Code below!
+
+`var name = "Eric";`
+
