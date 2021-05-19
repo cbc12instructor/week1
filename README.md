@@ -34,3 +34,8 @@ Unordered list
 
 `var name = "Eric";`
 
+`[Title of Link](https://WebAddress.com)`
+
+If you are interested in reading about me, please visit my website at [ericharrison.info](https://ericharrison.info)
+
+Check out [Google](https://google.com).
