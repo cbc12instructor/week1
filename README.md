@@ -17,3 +17,15 @@ In between paragraphs is a good spot for headings.
 > The queen is their slave
 
 Quotes are cool.
+
+### Fun with Lists
+
+Ordered list
+1. Buy cat food
+2. Buy dog food
+3. Buy cocktail mixes
+
+Unordered list
+- have fun
+- learn Markdown
+- sleep
