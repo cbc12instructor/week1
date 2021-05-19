@@ -6,7 +6,7 @@
 
 Eric Ryan Harrison
 
-This is a paragraph. A paragraph can be long or short. It is entirely up to us.
+This is a **paragraph**. A paragraph can be **long or short**. It is entirely up to us.
 
 ### We can put headings anywhere
 
