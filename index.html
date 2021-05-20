@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
     <head>
         <title>My First Webpage</title>
         <!--
@@ -11,7 +12,6 @@
     </head>
 
     <body>
-        # This is a heading
         <h1>This is a heading</h1>
         <h2>This is a heading</h2>
         <h3>This is a heading</h3>
@@ -28,8 +28,8 @@
             <li>List item 2</li>
             <li>List item 3</li>
             <li>List item 4</li>
-            <li>List item 1</li>
-            <li>List item 1</li>
+            <li>List item 5</li>
+            <li>List item 6</li>
         </ul>
 
         <ol>
@@ -39,7 +39,6 @@
         </ol>
 
         <p>This is paragraph 1</p>
-        
 
         <p>This is supposed to be paragraph 2</p>
 
@@ -111,26 +110,65 @@
 
         <hr>
 
-        <div style="background-color: #ffb;">
-            <p>Paragraph inside a div</p>
+        <div onclick="alert('hello');" style="display:block;background-color: #ffb;">
+            <p style="display:inline;"">Paragraph inside a div</p>
 
-            <div style="border: 1px solid #000; background-color: #bfb">
-                <p>This is another paragraph inside another div</p>
-                <span style="background-color:#f66;">This is text in a span</span>
+            <div style="display:inline;border: 1px solid #000; background-color: #bfb">
+                <p style="display:inline;">This is another paragraph inside another div</p>
+                <span style="display:inline;background-color:#f66;">This is text in a span</span>
             </div>
         </div>
         <hr>
 
         <h2>Form Stuff</h2>
-        <form method="POST" action="index.html">
+        <form method="GET" action="/index.html">
             <p>input type="text"</p>
-            <input type="text">
+
+            <em>Your Name</em>
+            <input name="name" type="text" placeholder="Your Name" value="Salena" disabled>
             
             <hr>
 
             <p>input type="password"</p>
-            <input type="password">
+            <input name="password" type="password" value="test">
+
+            <hr>
+
+            <ul>
+                <li><input type="checkbox" name="todo"> Buy Dog Food</li>
+                <li><input type="checkbox" name="todo"> Buy Dog Food</li>
+            </ul>
+            <input type="checkbox" name="todo" value="dogfood"> Buy Dog Food<br>
+            <input type="checkbox" name="todo"> Buy Cat Food<br>
+            <input type="checkbox" name="todo"> Buy Donkey Food<br>
+            <input type="checkbox" name="todo"> Buy Pig Food<br>
+            <input type="checkbox" name="todo"> Buy Chicken Food
+
+            <hr>
+            <p>input type="radio"</p>
+            <input type="radio" name="choice" value="first"> First Choice<br>
+            <input type="radio" name="choice" value="second"> Second Choice<br>
+            <input type="radio" name="choice" value="third"> Third Choice<br>
+<br><br>
+            <input type="number" name="number" min="1" max="50"> Number 1-50
+
+            <hr>
+            <select name="state">
+                <option value="GA">Georgia</option>
+                <option value="SC">South Carolina</option>
+            </select>
+
+            <hr>
+
+            <textarea name="essay" rows="10" cols="20">Hello, My name is Eric</textarea>
+
+
+            <p>input type="submit"</p>
+            <input type="submit">
         </form>
+
+        <p>input outside form</p>
+        <input name="name" type="text">
 
     </body>
  
